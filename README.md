@@ -144,8 +144,7 @@ The entire system is integrated into an interactive Streamlit dashboard containi
                           |
                           v
                 STREAMLIT DASHBOARD
-
----
+```
 
 ### Dashboard
 
