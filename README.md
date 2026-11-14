@@ -146,25 +146,27 @@ The entire system is integrated into an interactive Streamlit dashboard containi
                 STREAMLIT DASHBOARD
 
 
+
+
 ## Dashboard Preview
 
 ### Dashboard
-![Dashboard](screenshorts/dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 ### Overview
 ![Overview](screenshots/overview.png)
 
 ### Data Analysis
-![Data Analysis](screenshots/data analysis.png)
+![Data Analysis](screenshots/data%20analysis.png)
 
 ### Machine Learning Analysis
-![ML Analysis](screenshots/ml analysis.png)
+![ML Analysis](screenshots/ml%20analysis.png)
 
 ### Computer Vision Analysis
-![Vision Analysis](screenshots/vision analysis.png)
+![Vision Analysis](screenshots/vision%20analysis.png)
 
 ### Multimodal Analysis
-![Multimodal Analysis](screenshots/multimodal analysis.png)
+![Multimodal Analysis](screenshots/multimodal%20analysis.png)
 
 ### AI Insights
-![AI Insights](screenshots/ai insights.png)
+![AI Insights](screenshots/ai%20insights.png)
